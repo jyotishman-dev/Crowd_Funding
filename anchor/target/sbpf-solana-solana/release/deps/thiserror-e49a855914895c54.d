@@ -1,0 +1,10 @@
+/mnt/48bae6a7-f227-4fe7-b58b-2b6d165ce64e/HomeFolders/Documents/dapp_mentors/fundus/anchor/target/sbpf-solana-solana/release/deps/thiserror-e49a855914895c54.d: /home/crafters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/lib.rs /home/crafters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/aserror.rs /home/crafters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/display.rs /home/crafters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/provide.rs
+
+/mnt/48bae6a7-f227-4fe7-b58b-2b6d165ce64e/HomeFolders/Documents/dapp_mentors/fundus/anchor/target/sbpf-solana-solana/release/deps/libthiserror-e49a855914895c54.rlib: /home/crafters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/lib.rs /home/crafters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/aserror.rs /home/crafters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/display.rs /home/crafters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/provide.rs
+
+/mnt/48bae6a7-f227-4fe7-b58b-2b6d165ce64e/HomeFolders/Documents/dapp_mentors/fundus/anchor/target/sbpf-solana-solana/release/deps/libthiserror-e49a855914895c54.rmeta: /home/crafters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/lib.rs /home/crafters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/aserror.rs /home/crafters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/display.rs /home/crafters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/provide.rs
+
+/home/crafters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/lib.rs:
+/home/crafters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/aserror.rs:
+/home/crafters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/display.rs:
+/home/crafters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/provide.rs:
